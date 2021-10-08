@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Ikejrmillsowoo
-- 👀 I’m interested in Software Development. Learning and growing. Node/React/ FrontEnd
-- 🌱 I’m currently learning Node/React/MongoDB/SQL/ReactNative/
+- 👀 I’m a Software Developer. Node/React/ FrontEnd/ Fullstack 
+- 🌱 I’m currently working on Perfecting Skills
 - 💞️ I’m looking to collaborate on Any avalable project to learn and add to my skill. 
 - 📫 How to reach me ..Email is the best Ikejrmillsowoo@gmail.com
 
