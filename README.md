@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Ikejrmillsowoo
 - 👀 I’m an Aspiring Software Developer
-- 🌱 I’m currently working on Perfecting Skills
-- 💞️ I’m looking to collaborate on Any avalable project to learn and add to my skill. 
+- 🌱 I’m currently working on improving my Skills
+- 💞️ I’m looking to collaborate on any available project to learn and add to my skill. 
 - 📫 How to reach me ..Email is the best Ikejrmillsowoo@gmail.com
 
 <!---
