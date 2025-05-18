@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @Ikejrmillsowoo
-- 👀 I’m an Aspiring Software Developer
-- 🌱 I’m currently working on improving my Skills
-- 💞️ I’m looking to collaborate on any available project to learn and add to my skill. 
-- 📫 How to reach me ..Email is the best Ikejrmillsowoo@gmail.com
+- 👀 I’m a Software Developer
+- 🌱 I’m currently looking for a position
+- 💞️ I’m looking to be an asset to a team and to help solve problems. 
+- 📫 How to reach me ..Email is the best, Ikejrmillsowoo@gmail.com
 
 <!---
 Ikejrmillsowoo/Ikejrmillsowoo is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
